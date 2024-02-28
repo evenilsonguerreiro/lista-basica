@@ -68,6 +68,7 @@ body{
     }
     #botao-add{
         width: 70px;
+        padding: 2px;
     }
 }
 
